@@ -1,4 +1,4 @@
-# Patika.dev Veri Yapıları ve Algoritmalar Konusu Bölüm Sonu Projeleri
+### Patika.dev Veri Yapıları ve Algoritmalar Konusu Bölüm Sonu Projeleri
 
 <!-- LİNK -->
 
